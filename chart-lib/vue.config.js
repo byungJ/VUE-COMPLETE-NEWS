@@ -1,0 +1,6 @@
+// eslint-disable-next-line
+/* eslint-disable */ 
+const { defineConfig } = require('@vue/cli-service')
+module.exports = defineConfig({
+  transpileDependencies: true
+})
